@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shreya Maurya
 
 # 💫 About Me:
-🔭 I’m currently working on Web dev<br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning Java<br>💬 Ask me about MERN<br>⚡ Fun fact : Chess player(Gold medalist)
+🔭 I’m currently working on Web dev<br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning Java<br>💬 Ask me about MERN<br>⚡ Fun fact : Chess player (Gold medalist : state level(women))
 
 
 ## 🌐 Socials:
